@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\TriangulosService\obj\Debug\TriangulosService.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\TriangulosService\obj\Debug\TriangulosService.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TriangulosService\bin\TriangulosService.dll.config
+C:\Users\Aluno\Desktop\TriangulosService\bin\TriangulosService.dll
+C:\Users\Aluno\Desktop\TriangulosService\bin\TriangulosService.pdb
+C:\Users\Aluno\Desktop\TriangulosService\obj\Debug\TriangulosService.dll
+C:\Users\Aluno\Desktop\TriangulosService\obj\Debug\TriangulosService.pdb
